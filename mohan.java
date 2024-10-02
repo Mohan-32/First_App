@@ -3,3 +3,5 @@ public static void main(String[] args){}
 
 int i1 = 500;
 int i3 = 700;
+
+int i2 = 800;
